@@ -6,12 +6,9 @@ using System.Threading.Tasks;
 
 namespace CorsoDevOpsLib
 {
-    public class Class1
+    class Class2
     {
 
 
-    
-
-   
     }
 }
