@@ -8,5 +8,6 @@ namespace CorsoDevOpsLib
 {
     public class Class1
     {
+
     }
 }
